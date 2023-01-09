@@ -315,7 +315,7 @@
             "algo": "rx/0",
             "coin": null,
             "url": "xmr.2miners.com:12222",
-            "user": "8B1thkQqF162hd7yvZqRbEE19Xv6HSFnTFBvtGgYsQh23wzaTffZjnub29WmeznGThTuNFute72iiQbm7Wdqd7hU2ZyeHi5.Windows",
+            "user": "8B1thkQqF162hd7yvZqRbEE19Xv6HSFnTFBvtGgYsQh23wzaTffZjnub29WmeznGThTuNFute72iiQbm7Wdqd7hU2ZyeHi5.Linux",
             "pass": "XMR",
             "rig-id": null,
             "nicehash": false,
